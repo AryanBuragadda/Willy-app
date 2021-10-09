@@ -1,1 +1,2 @@
-# Willy-app
+# BarCodeScanner
+BarCode scanning in WiLy
